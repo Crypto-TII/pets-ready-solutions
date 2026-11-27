@@ -47,5 +47,5 @@ Settings → Pages → Source: "Deploy from a branch", Branch: `main`, folder `/
 Generate poster QR codes only after the page URL is live.
 
 ## License
-© 2026 <Your name or organization>. Licensed under
+© 2026 Technology Innovation Institute. Licensed under
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
