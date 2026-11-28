@@ -8,6 +8,7 @@ Each product has a small landing page with its video(s), published with GitHub P
 | Product | Page |
 | --- | --- |
 | PetalGuard | https://crypto-tii.github.io/pets-ready-solutions/petalguard/ |
+| VEIL | https://crypto-tii.github.io/pets-ready-solutions/veil/ |
 
 ### Layout
 
